@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Chapitre I : Monnaies et médailles (art. 1 à 33)](#1)
     - [Section I : Fabrication des monnaies et médailles (art. 1 à 13)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 1993-03-30
     - [Paragraphe I : Emission de billets de banque. (art. 34)](#11)
     - [Paragraphe II : Contrefaçon des billets de banque. (art. 36)](#12)
   - [Chapitre III : Imitation de billets de banque et de monnaies. (art. 37 à 38)](#13)
-  - [Chapitre IV : Dispositions communes. (art. 39)](#14)
+  - [Chapitre IV : Dispositions communes. (art. 38-1 à 39)](#14)
 # Chapitre I : Monnaies et médailles<a id=1></a>
 
 ## Section I : Fabrication des monnaies et médailles<a id=2></a>
@@ -104,102 +104,6 @@ _Cité par_:
   - Rapport - art. 4 (V)
 
 
-###### Article 5
-
-Il est interdit d'employer ou de détenir, à moins d'y avoir été préalablement autorisé, des machines, appareils ou
-instruments susceptibles d'être utilisés dans la fabrication des monnaies.
-
-Les autorisations sont délivrées à Paris par le préfet de police, dans les départements par le préfet pour l'arrondissement
-chef-lieu, et par les sous-préfets pour les autres arrondissements. Il est interdit de livrer, à quelque titre que ce soit, à
-des personnes non pourvues de l'autorisation prévue aux alinéas précédents, lesdites machines, appareils ou instruments.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°58-346 1958-04-03 (validation)
-  - Décret n°52-751 1952-06-26
-
-_Abrogé par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 14 (V) JORF 2 février 1994 en vigueur le 1er mars 1994
-
-_Cité par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-  - Code des instruments monétaires et des médailles - art. 6 (Ab)
-  - Code des instruments monétaires et des médailles - art. 7 (MMN)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des instruments monétaires et des médailles 7 *sanctions*
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 6
-
-Les machines, appareils et instruments auxquels sont applicables les interdictions portées par l'article 5 sont désignés par
-des décrets. Ceux-ci règlent les formes et conditions des autorisations qui y sont prévues et déterminent toutes les mesures
-d'exécution des articles 5 et 6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°58-346 1958-04-03 (validation)
-  - Décret n°52-751 1952-06-26
-
-_Abrogé par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 14 (V) JORF 2 février 1994 en vigueur le 1er mars 1994
-
-_Cité par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-  - Code des instruments monétaires et des médailles - art. 7 (MMN)
-
-_Cite_:
-
-  - Code des instruments monétaires et des médailles - art. 5 (Ab)
-  - Code des instruments monétaires et des médailles - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 7
-
-Toute infraction aux dispositions des articles 5 et 6 ou du décret, rendu pour leur exécution, sera punie d'une amende de 60
-à 15.000 F [*sanctions*] et de la confiscation des machines, appareils ou instruments employés, détenus ou livrés
-irrégulièrement.
-
-En cas de récidive, l'amende sera de 1.800 à 16.000 F.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-_Cité par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-
-_Cite_:
-
-  - Code des instruments monétaires et des médailles - art. 5 (Ab)
-  - Code des instruments monétaires et des médailles - art. 6 (Ab)
-
-
 ###### Article 8
 
 Pour toutes les monnaies françaises dont la fabrication est prévue par les lois existantes en un métal autre que l'or ou
@@ -280,23 +184,18 @@ _Créé par_:
 
 ###### Article 11
 
-Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 15.000 F [*sanctions*] et à une somme
-double en cas de récidive.
+Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 25.000 F [*sanctions*] et à 50.000 F
+en cas de récidive.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
   - Code des instruments monétaires et des médailles - art. 9 (M)
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
 
 
 ###### Article 12
@@ -353,19 +252,22 @@ _Cite_:
 
 ###### Article 17
 
-L'introduction des monnaies de cuivre et de billon de fabrication étrangère est prohibée, sous les peines portées par les
-lois concernant les marchandises prohibées à l'entrée du territoire.
+L'introduction des monnaies en métal commun de fabrication étrangère est prohibée, sous les peines portées par les lois
+concernant les marchandises prohibées à l'entrée du territoire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
+  - Loi n°92-1336 du 16 décembre 1992 - art. 170 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
 
 
 ###### Article 18
@@ -396,22 +298,17 @@ _Abrogé par_:
 
 ###### Article 19
 
-L'article 135 du code pénal est applicable à la circulation, en dehors du rayon frontière, des monnaies de billon n'ayant pas
-cours légal en France quand elles ne sont pas accompagnées d'une expédition délivrée par le service des douanes ou des
-contributions indirectes.
+Les dispositions de l'article 442-7 du code pénal sont applicables à la circulation en dehors du rayon des douanes des
+monnaies en métal commun n'ayant pas cours légal en France quand elles ne sont pas accompagnées d'une expédition délivrée par
+le service des douanes ou des contributions indirectes.
 
 Dans tous les cas, la monnaie saisie sera confisquée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Loi n°92-1336 du 16 décembre 1992 - art. 170 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -419,7 +316,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 135
+  - Code pénal - art. 442-7 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
 
 
 ###### Article 20
@@ -479,23 +384,30 @@ _Abrogé par_:
 
 ###### Article 22
 
-La contrefaçon, l'altération et la coloration des monnaies, ainsi que l'émission ou l'usage de fausses monnaies, sont punis
-dans les conditions prévues aux articles 132, 133, 134, 135 et 138 du code pénal [*sanctions*].
+La contrefaçon et la falsification des monnaies, ainsi que le transport, la mise en circulation et la détention en vue de la
+mise en circulation de monnaies contrefaites ou falsifiées sont réprimés par les articles 442-1 à 442-7 du code pénal.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 171 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Cite_:
 
-  - Code pénal 132, 133, 134, 135, 138
+  - Code pénal 442-1 à 442-7
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
+  - Code monétaire et financier - art. L162-1 (M)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
 
 
 ## Section III : Monnaies ayant cours légal.<a id=9></a>
@@ -799,23 +711,26 @@ _Cité par_:
 
 ###### Article 36
 
-La contrefaçon de billets de banque, l'émission de billets contrefaits ou l'usage de telles coupures sont punis dans les
-conditions prévues à l'article 139 du code pénal [*sanctions*].
+La contrefaçon et la falsification des billets de banque, ainsi que le transport, la mise en circulation et la détention en
+vue de la mise en circulation de billets contrefaits ou falsifiés sont réprimés par les articles 442-1 à 442-7 du code pénal.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Loi n°92-1336 du 16 décembre 1992 - art. 172 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
-  - Code pénal 139
+  - Code pénal 442-1 à 442-7
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L162-1 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 
 # Chapitre III : Imitation de billets de banque et de monnaies.<a id=13></a>
@@ -827,16 +742,15 @@ quelconque qui, par leur forme extérieure, présenteraient avec les billets de 
 par l'Etat une ressemblance de nature à faciliter l'acceptation desdits imprimés ou formules au lieu et place de valeurs
 imitées.
 
-Indépendamment des contrefaçons ou altérations prévues et punies par les articles 132 et 133 du Code pénal, sont également
-interdits la fabrication, la vente, le colportage et la distribution de toutes les imitations des monnaies ayant cours légal
-en France et des monnaies étrangères.
+Indépendamment des contrefaçons ou altérations prévues et punies par les articles 442-1 et 442-2 du code pénal, sont
+également interdits la fabrication, la vente, le colportage et la distribution de toutes les imitations des monnaies ayant
+cours légal en France et des monnaies étrangères.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°58-346 1958-04-03 (validation)
-  - Décret n°52-751 1952-06-26
+  - Loi n°92-1336 du 16 décembre 1992 - art. 173 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
@@ -844,34 +758,99 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code pénal 132, 133
+  - Code pénal - art. 442-1 (M)
+  - Code pénal - art. 442-2 (M)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 
 ###### Article 38
 
-Toute infraction aux dispositions de l'article précédent sera punie d'un emprisonnement de cinq jours à six mois et d'une
-amende de 60 à 20.000 F [*sanctions*].
+Toute infraction aux dispositions de l'article précédent sera punie d'un emprisonnement de six mois et d'une amende de 25.000
+F. 
 
 Les imprimés ou formules, les monnaies imitées ainsi que les planches, matrices et autres instruments ayant servi à la
 confection seront saisis et confisqués.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 
 # Chapitre IV : Dispositions communes.<a id=14></a>
+
+###### Article 38-1
+
+Lorsque des poursuites pénales sont exercées, quelle que soit la qualification du crime ou du délit retenue, la confiscation
+des pièces de monnaie ou des billets de banque contrefaits ou falsifiés, ainsi que des matières et instruments spécialement
+destinés à la fabrication des pièces de monnaie ou des billets de banque, est ordonnée par la décision statuant sur l'action
+publique, conformément aux dispositions des deux derniers alinéas de l'article 442-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 174 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - Code pénal - art. 442-13 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
+
+_Cité par_:
+
+  - Rapport - art. 4 (V)
+
+
+###### Article 38-2
+
+Toute personne qui a reçu des signes monétaires contrefaits ou falsifiés a l'obligation de les remettre ou de les faire
+remettre à la Banque de France ou à l'administration des Monnaies et médailles, selon qu'il s'agit de billets de banque ou de
+monnaies métalliques.
+
+La Banque de France et l'administration des Monnaies et médailles sont habilitées à retenir et éventuellement à détruire les
+signes monétaires qu'elles reconnaissent comme contrefaits ou falsifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 174 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Rapport - art. 4 (V)
+  - Code pénal - art. R645-9 (V)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L162-2 (V)
+  - Code monétaire et financier - art. L162-2 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
+
 
 ###### Article 39
 
