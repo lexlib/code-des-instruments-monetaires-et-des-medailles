@@ -1,21 +1,20 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1968-11-28
+Version Consolidée au 1973-01-01
 ## Contenu: 
   - [Chapitre I : Monnaies et médailles (art. 1 à 33)](#1)
     - [Section I : Fabrication des monnaies et médailles (art. 1 à 13)](#2)
       - [Paragraphe I : Frappe des monnaies métalliques. (art. 1 à 8)](#3)
       - [Paragraphe II : Frappe des médailles. (art. 9 à 12)](#4)
       - [Paragraphe III : Dépôt légal. (art. 13)](#5)
-    - [Section II : Circulation des monnaies métalliques (art. 14 à 22)](#6)
-      - [Paragraphe I : Commission de contrôle de la circulation monétaire. (art. 14 à 16)](#7)
-      - [Paragraphe II : Trafic des monnaies étrangères. (art. 17 à 21)](#8)
-      - [Paragraphe III : Contrefaçon des monnaies. (art. 22)](#9)
-    - [Section III : Monnaies ayant cours légal. (art. 23 à 33)](#10)
-  - [Chapitre II : Billets de banque (art. 34 à 36)](#11)
-    - [Paragraphe I : Emission de billets de banque. (art. 34)](#12)
-    - [Paragraphe II : Contrefaçon des billets de banque. (art. 36)](#13)
-  - [Chapitre III : Imitation de billets de banque et de monnaies. (art. 37 à 38)](#14)
-  - [Chapitre IV : Dispositions communes. (art. 39)](#15)
+    - [Section II : Circulation des monnaies métalliques (art. 17 à 22)](#6)
+      - [Paragraphe II : Trafic des monnaies étrangères. (art. 17 à 21)](#7)
+      - [Paragraphe III : Contrefaçon des monnaies. (art. 22)](#8)
+    - [Section III : Monnaies ayant cours légal. (art. 23 à 33)](#9)
+  - [Chapitre II : Billets de banque (art. 34 à 36)](#10)
+    - [Paragraphe I : Emission de billets de banque. (art. 34)](#11)
+    - [Paragraphe II : Contrefaçon des billets de banque. (art. 36)](#12)
+  - [Chapitre III : Imitation de billets de banque et de monnaies. (art. 37 à 38)](#13)
+  - [Chapitre IV : Dispositions communes. (art. 39)](#14)
 # Chapitre I : Monnaies et médailles<a id=1></a>
 
 ## Section I : Fabrication des monnaies et médailles<a id=2></a>
@@ -350,68 +349,7 @@ _Cité par_:
 
 ## Section II : Circulation des monnaies métalliques<a id=6></a>
 
-### Paragraphe I : Commission de contrôle de la circulation monétaire.<a id=7></a>
-
-###### Article 14
-
-Le contrôle de la circulation monétaire est assuré par une commission de douze membres désignés : deux par l'Assemblée
-nationale, un par le Sénat, un par le Conseil économique, un par le Conseil d'Etat, un par la Cour des comptes, un par la
-Banque de France, deux par l'Académie des sciences et deux par la Chambre de commerce et d'industrie de Paris.
-
-La commission élit son président, elle le choisit parmi ses membres.
-
-Les nominations sont faites pour trois ans ; les membres sont rééligibles, leurs fonctions sont gratuites.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 15
-
-La commission s'assure de la régularité de l'émission des pièces au point de vue du poids et du titre, et, à cet effet, elle
-fait vérifier, à la fin de chaque année, des échantillons prélevés sur chacune des brèves admises en délivrance dans le cours
-de cette année. Cette vérification porte également sur des pièces extraites de la circulation. Le nombre et le mode de
-prélèvement de ces échantillons ainsi que les mesures nécessaires pour garantir leur identité, sont déterminés par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 16
-
-Dans le premier mois de chaque année, la commission remet au Président de la République un rapport sur les résultats de la
-fabrication effectuée pendant l'année précédente et sur la situation matérielle de la circulation. Ce rapport est publié et
-distribué à l'Assemblée nationale et au Sénat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-### Paragraphe II : Trafic des monnaies étrangères.<a id=8></a>
+### Paragraphe II : Trafic des monnaies étrangères.<a id=7></a>
 
 ###### Article 17
 
@@ -537,7 +475,7 @@ _Abrogé par_:
   - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 
-### Paragraphe III : Contrefaçon des monnaies.<a id=9></a>
+### Paragraphe III : Contrefaçon des monnaies.<a id=8></a>
 
 ###### Article 22
 
@@ -560,7 +498,7 @@ _Créé par_:
   - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
 
 
-## Section III : Monnaies ayant cours légal.<a id=10></a>
+## Section III : Monnaies ayant cours légal.<a id=9></a>
 
 ###### Article 23
 
@@ -821,9 +759,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-# Chapitre II : Billets de banque<a id=11></a>
+# Chapitre II : Billets de banque<a id=10></a>
 
-## Paragraphe I : Emission de billets de banque.<a id=12></a>
+## Paragraphe I : Emission de billets de banque.<a id=11></a>
 
 ###### Article 34
 
@@ -857,7 +795,7 @@ _Cité par_:
   - Rapport - art. 4 (V)
 
 
-## Paragraphe II : Contrefaçon des billets de banque.<a id=13></a>
+## Paragraphe II : Contrefaçon des billets de banque.<a id=12></a>
 
 ###### Article 36
 
@@ -880,7 +818,7 @@ _Cite_:
   - Code pénal 139
 
 
-# Chapitre III : Imitation de billets de banque et de monnaies.<a id=14></a>
+# Chapitre III : Imitation de billets de banque et de monnaies.<a id=13></a>
 
 ###### Article 37
 
@@ -933,7 +871,7 @@ _Créé par_:
   - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
 
 
-# Chapitre IV : Dispositions communes.<a id=15></a>
+# Chapitre IV : Dispositions communes.<a id=14></a>
 
 ###### Article 39
 
