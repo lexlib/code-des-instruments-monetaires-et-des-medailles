@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1953-02-07
+Version Consolidée au 1958-12-24
 ## Contenu: 
   - [Chapitre I : Monnaies et médailles (art. 1 à 33)](#1)
     - [Section I : Fabrication des monnaies et médailles (art. 1 à 13)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1953-02-07
       - [Paragraphe III : Contrefaçon des monnaies. (art. 22)](#9)
     - [Section III : Monnaies ayant cours légal. (art. 23 à 33)](#10)
   - [Chapitre II : Billets de banque (art. 34 à 36)](#11)
-    - [Paragraphe I : Emission de billets de banque. (art. 34 à 35)](#12)
+    - [Paragraphe I : Emission de billets de banque. (art. 34)](#12)
     - [Paragraphe II : Contrefaçon des billets de banque. (art. 36)](#13)
   - [Chapitre III : Imitation de billets de banque et de monnaies. (art. 37 à 38)](#14)
   - [Chapitre IV : Dispositions communes. (art. 39)](#15)
@@ -879,26 +879,6 @@ _Abrogé par_:
 _Cité par_:
 
   - Rapport - art. 4 (V)
-
-
-###### Article 35
-
-Sous réserve des dispositions de l'article précédent, la souscription ou l'émission de billets au porteur ayant pour objet de
-remplacer ou de suppléer la monnaie est punie des peines portées contre les faux monnayeurs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°52-751 du 26 juin 1952, v. init.
-
-_Codifié par_:
-
-  - Décret n°52-751 du 26 juin 1952, v. init.
-
-_Abrogé par_:
-
-  - Ordonnance n°58-1298 du 23 décembre 1958 - art. 43, v. init.
 
 
 ## Paragraphe II : Contrefaçon des billets de banque.<a id=13></a>
