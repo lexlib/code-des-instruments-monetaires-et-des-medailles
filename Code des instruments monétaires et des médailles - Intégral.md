@@ -1,40 +1,16 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2005-08-25
 ## Contenu: 
-  - [Chapitre I : Monnaies et médailles (art. 2 à 33)](#1)
-    - [Section I : Fabrication des monnaies et médailles (art. 2 à 13)](#2)
-      - [Paragraphe I : Frappe des monnaies métalliques. (art. 2)](#3)
-      - [Paragraphe II : Frappe des médailles. (art. 9 à 12)](#4)
-      - [Paragraphe III : Dépôt légal. (art. 13)](#5)
-    - [Section III : Monnaies ayant cours légal. (art. 33)](#6)
-  - [Chapitre IV : Dispositions communes. (art. 39)](#7)
+  - [Chapitre I : Monnaies et médailles (art. 9 à 13)](#1)
+    - [Section I : Fabrication des monnaies et médailles (art. 9 à 13)](#2)
+      - [Paragraphe II : Frappe des médailles. (art. 9 à 12)](#3)
+      - [Paragraphe III : Dépôt légal. (art. 13)](#4)
+  - [Chapitre IV : Dispositions communes. (art. 39)](#5)
 # Chapitre I : Monnaies et médailles<a id=1></a>
 
 ## Section I : Fabrication des monnaies et médailles<a id=2></a>
 
-### Paragraphe I : Frappe des monnaies métalliques.<a id=3></a>
-
-###### Article 2
-
-Le compte détaillé des opérations de la régie est joint, chaque année, au compte général de l'administration des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-### Paragraphe II : Frappe des médailles.<a id=4></a>
+### Paragraphe II : Frappe des médailles.<a id=3></a>
 
 ###### Article 9
 
@@ -121,7 +97,7 @@ _Créé par_:
   - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
 
 
-### Paragraphe III : Dépôt légal.<a id=5></a>
+### Paragraphe III : Dépôt légal.<a id=4></a>
 
 ###### Article 13
 
@@ -150,44 +126,7 @@ _Cite_:
   - Code pénal - art. 131-13 (M)
 
 
-## Section III : Monnaies ayant cours légal.<a id=6></a>
-
-###### Article 33
-
-L'administration des monnaies et médailles est autorisée à frapper, pour le compte de l'Etat, des pièces de 5 francs (0,05
-F), 2 francs (0,02 F) et 1 franc (0,01 F) en métal commun destinées à être mises en circulation dans le département de la
-Réunion.
-
-La composition, les caractéristiques et le type de ces pièces sont fixés par arrêté pris conjointement par le ministre des
-finances et le ministre de l'intérieur.
-
-Le pouvoir libératoire de ces pièces est limité à 250 francs (2,50 F) pour les pièces de 5 francs (0,05 F) et à 100 francs (1
-F) pour les autres pièces.
-
-L'ensemble des émissions des pièces de 5 francs (0,05 F), 2 francs (0,02 F) et 1 franc (0,01 F) visées au premier alinéa ne
-pourra dépasser 100 millions de francs (1 000 000 F).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°52-751 1952-06-26
-  - Loi n°58-346 1958-04-03 (validation)
-
-_Créé par_:
-
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°74-1114 1974-12-27
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-# Chapitre IV : Dispositions communes.<a id=7></a>
+# Chapitre IV : Dispositions communes.<a id=5></a>
 
 ###### Article 39
 
