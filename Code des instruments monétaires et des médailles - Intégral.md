@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2006-12-27
 ## Contenu: 
   - [Chapitre I : Monnaies et médailles (art. 9 à 13)](#1)
     - [Section I : Fabrication des monnaies et médailles (art. 9 à 13)](#2)
@@ -19,30 +19,30 @@ frapper des médailles, jetons ou pièces de plaisir, d'or, d'argent et autres m
 monnaie, à moins d'être munies d'une autorisation spéciale du ministre de l'économie et des finances.
 
 Néanmoins, tout dessinateur ou graveur ou autre personne peut dessiner ou graver, faire dessiner ou graver des médailles ;
-celles-ci sont frappées avec le coin qu'ils remettent à l'administration des monnaies et médailles.
+celles-ci sont frappées avec le coin qu'ils remettent à la Monnaie de Paris.
 
 Les frais de fabrication sont réglés par le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des instruments monétaires et des médailles - art. 11 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 220 (V)
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (VD)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des instruments monétaires et des médailles 11 *sanctions*
 
 _Codifié par_:
 
   - Décret n°52-751 1952-06-26
   - Loi n°58-346 1958-04-03 (validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (VD)
+  - Code des instruments monétaires et des médailles - art. 11 (V)
+  - Code général des impôts annexe 1, CGIAN1. - art. 220 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des instruments monétaires et des médailles 11 *sanctions*
 
 
 ###### Article 10
@@ -101,21 +101,19 @@ _Créé par_:
 
 ###### Article 13
 
-Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétaire de l'administration des monnaies et médailles,
-deux exemplaires de chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à
-la Monnaie.
+Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétaire de la Monnaie de Paris, deux exemplaires de
+chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à la Monnaie. 
 
-Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe
-[*sanctions*] pour chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la
-Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante
-jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la
-perfection d'exécution.
+Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe pour
+chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la Monnaie devra déposer à
+la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante jours après la première
+frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la perfection d'exécution.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
@@ -123,7 +121,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-13 (M)
+  - Code pénal - art. 131-13 (V)
 
 
 # Chapitre IV : Dispositions communes.<a id=5></a>
