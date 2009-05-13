@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Chapitre I : Monnaies et médailles (art. 9 à 13)](#1)
     - [Section I : Fabrication des monnaies et médailles (art. 9 à 13)](#2)
@@ -64,18 +64,17 @@ _Créé par_:
 
 ###### Article 11
 
-Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 3750 euros et à 7500 euros en cas de
-récidive.
+Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 3750 euros.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
 _Cite_:
 
-  - Code des instruments monétaires et des médailles - art. 9 (V)
+  - Code des instruments monétaires et des médailles - art. 9
 
 
 ###### Article 12
